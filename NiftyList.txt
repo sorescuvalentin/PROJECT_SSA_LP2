@@ -1,0 +1,111 @@
+Linia 1 spre Stația Meteo
+Stația
+Sosire
+Gara de Nord
+>>
+Regele Carol
+2 min.
+P-ța Mocioni
+3 min.
+P-ța Maria
+5 min.
+Catedrala Mit.
+6 min.
+Spitalul de Copii
+8 min.
+P-ța 700
+9 min.
+P-ța Libertății
+10 min.
+Hotel Continental
+11 min.
+Prefectură
+13 min.
+Bd. 3 August 1919
+15 min.
+P-ța Traian
+16 min.
+Prințul Turcesc
+18 min.
+P-ța Sarmisegetusa
+19 min.
+Lalelelor
+>>
+P-ța V. Economu
+1 min.
+Spitalul V. Babeș
+3 min.
+Stația Meteo
+11:38
+Linia 1 spre Gara de Nord
+Stația
+Sosire
+
+Stația Meteo
+11:38
+U.M.T.
+11:39
+Arena Electrica
+>>
+Gara de Est
+2 min.
+P-ța Badea Cârțan
+4 min.
+P-ța Traian
+6 min.
+Bd. 3 August 1919
+7 min.
+Prefectură
+9 min.
+Hotel Continental
+10 min.
+P-ța Libertății
+12 min.
+P-ța 700
+13 min.
+Spitalul de Copii
+14 min.
+Catedrala Mit.
+>>
+P-ta Maria 2
+2 min.
+P-ța Mocioni
+3 min.
+Regele Carol
+4 min.
+Gara de Nord
+7 min.
+Stația Meteo
+11:38
+U.M.T.
+11:39
+Arena Electrica
+>>
+Gara de Est
+2 min.
+P-ța Badea Cârțan
+4 min.
+P-ța Traian
+6 min.
+Bd. 3 August 1919
+7 min.
+Prefectură
+9 min.
+Hotel Continental
+10 min.
+P-ța Libertății
+12 min.
+P-ța 700
+13 min.
+Spitalul de Copii
+14 min.
+Catedrala Mit.
+>>
+P-ta Maria 2
+2 min.
+P-ța Mocioni
+3 min.
+Regele Carol
+4 min.
+Gara de Nord
+7 min.
