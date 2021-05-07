@@ -2,581 +2,581 @@ Linia 11 spre P-ța V. Economu
 Stația
 Sosire
 Ghe. Barițiu
-22:20
+15:17
 Pop de Băsești
-22:20
+15:17
 Gara de Nord
-22:22
+15:19
 Jiul
-22:24
+15:21
 P-ța R. Maria
-22:40
+15:23
 P-ța 700
-22:42
+15:25
 P-ța Mărăști
-22:43
+15:26
 Bastion
-1 min.
+15:28
 Poliția Jud. Timiș
-3 min.
+15:30
 P-ța Badea Cârțan
-5 min.
+2 min.
 Samuil Micu
-6 min.
+3 min.
 Renașterii
-8 min.
+4 min.
 P-ța V. Economu
-9 min.
+5 min.
 Arena Aqua
-12 min.
+8 min.
 Linia 11 spre Ghe. Barițiu
 Stația
 Sosire
 
 Arena Aqua
-22:20
+15:17
 P-ța V. Economu
-22:23
+>>
 Renașterii
-22:24
-Samuil Micu
-22:25
-P-ța Badea Cârțan
-22:27
-Poliția Jud. Timiș
-22:28
-A. Popovici
-22:29
-Oituz
-22:31
-P-ța 700
-22:34
-P-ța R. Maria
-1 min.
-Jiul
 2 min.
-Gara de Nord
+Samuil Micu
+3 min.
+P-ța Badea Cârțan
 4 min.
-Pop de Băsești
-6 min.
-Ghe. Barițiu
+Poliția Jud. Timiș
+5 min.
+A. Popovici
 7 min.
+Oituz
+8 min.
+P-ța 700
+11 min.
+P-ța R. Maria
+2 min.
+Jiul
+3 min.
+Gara de Nord
+5 min.
+Pop de Băsești
+7 min.
+Ghe. Barițiu
+8 min.
 Arena Aqua
-22:20
+15:17
 P-ța V. Economu
-22:23
+>>
 Renașterii
-22:24
-Samuil Micu
-22:25
-P-ța Badea Cârțan
-22:27
-Poliția Jud. Timiș
-22:28
-A. Popovici
-22:29
-Oituz
-22:31
-P-ța 700
-22:34
-P-ța R. Maria
-1 min.
-Jiul
 2 min.
-Gara de Nord
+Samuil Micu
+3 min.
+P-ța Badea Cârțan
 4 min.
-Pop de Băsești
-6 min.
-Ghe. Barițiu
+Poliția Jud. Timiș
+5 min.
+A. Popovici
 7 min.
+Oituz
+8 min.
+P-ța 700
+11 min.
+P-ța R. Maria
+2 min.
+Jiul
+3 min.
+Gara de Nord
+5 min.
+Pop de Băsești
+7 min.
+Ghe. Barițiu
+8 min.
 Linia M11 spre Ialomița
 Stația
 Sosire
 Ghe. Barițiu
-22:25
+15:20
 Pop de Băsești
-22:25
+15:20
 Gara de Nord
-22:27
+15:22
 Jiul
-22:29
+15:24
 P-ța R. Maria
-22:31
+15:26
 P-ța 700
-22:33
+15:28
 P-ța Mărăști
-22:34
+15:29
 Bastion
-22:36
+1 min.
 Poliția Jud. Timiș
-22:38
+3 min.
 P-ța Badea Cârțan
-22:40
+5 min.
 Samuil Micu
-22:41
+6 min.
 Renașterii
-22:42
+7 min.
 P-ța V. Economu
-22:43
+8 min.
 Arena Aqua
-22:46
+11 min.
 Moticica
-22:48
+13 min.
 ROMTRANS
-22:50
+15 min.
 Banat Car
-22:52
+17 min.
 Lugojului
-22:55
+20 min.
 Primăria Ghiroda
-22:56
+21 min.
 Ialomița
-22:25
+15:20
 Linia M11 spre Ghe. Barițiu
 Stația
 Sosire
 
 Ialomița
-22:25
+15:20
 Jiul
-22:26
+15:21
 Ialomița 19
-22:27
+15:22
 Câmpului
-22:27
+15:22
 Moldovei 
-22:29
+15:24
 Prieteniei 
-22:30
+15:25
 Spartacus 
-22:31
+15:26
 Bobâlna
-22:32
+15:27
 Cometei
-22:34
+15:29
 Turda
-22:35
+15:30
 Arena Aqua
-22:36
+15:31
 Camping
-22:37
+15:32
 P-ța V. Economu
-1 min.
+15:35
 Renașterii
-2 min.
+15:36
 Samuil Micu
-3 min.
+15:37
 P-ța Badea Cârțan
-5 min.
+15:39
 Poliția Jud. Timiș
-6 min.
+15:40
 A. Popovici
-7 min.
+15:41
 Oituz
-9 min.
+15:43
 P-ța 700
-12 min.
+15:46
 P-ța R. Maria
-14 min.
+>>
 Jiul
-15 min.
+1 min.
 Gara de Nord
-17 min.
+4 min.
 Pop de Băsești
-19 min.
+5 min.
 Ghe. Barițiu
-20 min.
+6 min.
 Ialomița
-22:25
+15:20
 Jiul
-22:26
+15:21
 Ialomița 19
-22:27
+15:22
 Câmpului
-22:27
+15:22
 Moldovei 
-22:29
+15:24
 Prieteniei 
-22:30
+15:25
 Spartacus 
-22:31
+15:26
 Bobâlna
-22:32
+15:27
 Cometei
-22:34
+15:29
 Turda
-22:35
+15:30
 Arena Aqua
-22:36
+15:31
 Camping
-22:37
+15:32
 P-ța V. Economu
-1 min.
+15:35
 Renașterii
-2 min.
+15:36
 Samuil Micu
-3 min.
+15:37
 P-ța Badea Cârțan
-5 min.
+15:39
 Poliția Jud. Timiș
-6 min.
+15:40
 A. Popovici
-7 min.
+15:41
 Oituz
-9 min.
+15:43
 P-ța 700
-12 min.
+15:46
 P-ța R. Maria
-14 min.
+>>
 Jiul
-15 min.
+1 min.
 Gara de Nord
-17 min.
+4 min.
 Pop de Băsești
-19 min.
+5 min.
 Ghe. Barițiu
-20 min.
+6 min.
 Linia 14 spre I.I.de la Brad
 Stația
 Sosire
 Ghe. Barițiu
-22:24
+15:15
 Pop de Băsești
-22:24
+15:15
 Gara de Nord
-1 min.
+15:17
 Jiul
-3 min.
-P-ța R. Maria
-5 min.
-P-ța 700
-6 min.
-P-ța Mărăști
-8 min.
-P-ța C. Europei
-10 min.
-Cimitirul Eroilor
 >>
-Div 9 Cavalerie
+P-ța R. Maria
 2 min.
+P-ța 700
+4 min.
+P-ța Mărăști
+5 min.
+P-ța C. Europei
+8 min.
+Cimitirul Eroilor
+9 min.
+Div 9 Cavalerie
+1 min.
 Pomiculturii
-3 min.
+2 min.
 Ap. Petru și Pavel
 4 min.
 I.I.de la Brad
-6 min.
+5 min.
 Linia 14 spre Ghe. Barițiu
 Stația
 Sosire
 
 I.I.de la Brad
-22:24
+15:15
 Ap. Petru și Pavel
-22:25
+15:16
 Pomiculturii
-22:26
+15:17
 Div 9 Cavalerie
-22:28
+15:19
 Cimitirul Eroilor
->>
+15:20
 P-ța C. Europei
-2 min.
+15:23
 P-ța 700
-6 min.
+2 min.
 P-ța R. Maria
-8 min.
+3 min.
 Jiul
-9 min.
+5 min.
 Gara de Nord
-11 min.
+7 min.
 Pop de Băsești
-12 min.
+8 min.
 Ghe. Barițiu
-13 min.
+9 min.
 I.I.de la Brad
-22:24
+15:15
 Ap. Petru și Pavel
-22:25
+15:16
 Pomiculturii
-22:26
+15:17
 Div 9 Cavalerie
-22:28
+15:19
 Cimitirul Eroilor
->>
+15:20
 P-ța C. Europei
-2 min.
+15:23
 P-ța 700
-6 min.
+2 min.
 P-ța R. Maria
-8 min.
+3 min.
 Jiul
-9 min.
+5 min.
 Gara de Nord
-11 min.
+7 min.
 Pop de Băsești
-12 min.
+8 min.
 Ghe. Barițiu
-13 min.
+9 min.
 Linia M14 spre Girație Dumbrăvița
 Stația
 Sosire
 Ghe. Barițiu
-22:30
+15:32
 Pop de Băsești
-22:30
+15:32
 Gara de Nord
-22:32
+15:34
 Jiul
-22:34
+15:36
 P-ța R. Maria
-22:36
+15:38
 P-ța 700
-22:37
+15:39
 P-ța Mărăști
-22:39
+1 min.
 P-ța C. Europei
-22:41
+4 min.
 Cimitirul Eroilor
-22:43
+5 min.
 Div 9 Cavalerie
-22:44
+6 min.
 Pomiculturii
-22:45
+8 min.
 Ap. Petru și Pavel
-22:47
+9 min.
 I.I. de la Brad
-22:49
+11 min.
 Kaufland
-22:51
+13 min.
 Fropin
-22:53
+15 min.
 Crisan1
-22:54
+16 min.
 P-ța Bălcescu
-22:55
+17 min.
 Zoltan
-22:57
+20 min.
 I. Attila
-22:59
+21 min.
 Girație Dumbrăvița
-22:30
+15:32
 Linia M14 spre Ghe. Barițiu
 Stația
 Sosire
 
 Girație Dumbrăvița
-22:30
+15:32
 I. Attila
-22:31
+15:33
 Zoltan
-22:33
+15:35
 P-ța Bălcescu
-22:35
+15:37
 Crisan2
-22:36
+15:38
 Fropin
-22:37
+15:39
 Kaufland
-22:39
+15:41
 I.I.de la Brad
-22:41
+15:43
 Ap. Petru și Pavel
-22:43
+15:45
 Pomiculturii
-22:44
+15:46
 Div 9 Cavalerie
-22:46
+15:48
 Cimitirul Eroilor
-22:47
+15:49
 P-ța C. Europei
-22:50
+15:52
 P-ța 700
-22:53
+15:55
 P-ța R. Maria
-22:55
+15:57
 Jiul
-22:56
+15:58
 Gara de Nord
-22:58
+16:00
 Pop de Băsești
-23:00
+1 min.
 Ghe. Barițiu
-23:01
+2 min.
 Girație Dumbrăvița
-22:30
+15:32
 I. Attila
-22:31
+15:33
 Zoltan
-22:33
+15:35
 P-ța Bălcescu
-22:35
+15:37
 Crisan2
-22:36
+15:38
 Fropin
-22:37
+15:39
 Kaufland
-22:39
+15:41
 I.I.de la Brad
-22:41
+15:43
 Ap. Petru și Pavel
-22:43
+15:45
 Pomiculturii
-22:44
+15:46
 Div 9 Cavalerie
-22:46
+15:48
 Cimitirul Eroilor
-22:47
+15:49
 P-ța C. Europei
-22:50
+15:52
 P-ța 700
-22:53
+15:55
 P-ța R. Maria
-22:55
+15:57
 Jiul
-22:56
+15:58
 Gara de Nord
-22:58
+16:00
 Pop de Băsești
-23:00
+1 min.
 Ghe. Barițiu
-23:01
+2 min.
 Linia 15 spre T. Grozăvescu
 Stația
 Sosire
 Apicultorilor
-12 min.
+3 min.
 Mureș2
-22:21
+15:16
 M-șal C-tin Prezan
-22:22
+>>
 Martir I. Stanciu
-22:23
-Cl. Martirilor
-22:25
-Casa Tineretului
-22:26
-Sala Olimpia
-22:29
-Comp.Stud_3Tb
-22:34
-Parcul Copiilor
-22:36
-T. Grozăvescu
 1 min.
+Cl. Martirilor
+3 min.
+Casa Tineretului
+4 min.
+Sala Olimpia
+6 min.
+Comp.Stud_3Tb
+1 min.
+Parcul Copiilor
+3 min.
+T. Grozăvescu
+4 min.
 Linia 15 spre M-șal C-tin Prezan
 Stația
 Sosire
 
 T. Grozăvescu
-22:19
+15:14
 Parcul Copiilor
-1 min.
+15:15
 Complex Studențesc
-2 min.
+15:16
 Cluj
-4 min.
+1 min.
 Cl. Martirilor
-6 min.
+3 min.
 Martir I. Stanciu
-7 min.
+5 min.
 Prezan 3ab
-8 min.
+6 min.
 Mureș
-9 min.
+7 min.
 Apicultorilor
-12 min.
+3 min.
 T. Grozăvescu
-22:19
+15:14
 Parcul Copiilor
-1 min.
+15:15
 Complex Studențesc
-2 min.
+15:16
 Cluj
-4 min.
+1 min.
 Cl. Martirilor
-6 min.
+3 min.
 Martir I. Stanciu
-7 min.
+5 min.
 Prezan 3ab
-8 min.
+6 min.
 Mureș
-9 min.
+7 min.
 Apicultorilor
-12 min.
+3 min.
 Linia 16 spre T. Grozăvescu
 Stația
 Sosire
 Bv.Sudului 2tb
-13 min.
-Spitalul Județean
-2 min.
-Casa Tineretului
-4 min.
-Sala Olimpia
 6 min.
-Pasaj Michelangelo
-8 min.
-Univ. de Vest
-9 min.
-A Șaguna
-11 min.
-I.C. Brătianu
-13 min.
-T. Grozăvescu
+Spitalul Județean
+15:20
+Casa Tineretului
 >>
+Sala Olimpia
+3 min.
+Pasaj Michelangelo
+5 min.
+Univ. de Vest
+6 min.
+A Șaguna
+>>
+I.C. Brătianu
+3 min.
+T. Grozăvescu
+1 min.
 Linia 16 spre Bd. Sudului (buclă)
 Stația
 Sosire
 
 T. Grozăvescu
-22:25
+15:18
 P-ța Huniade
-2 min.
+15:20
 Pod A. Șaguna
-3 min.
+15:25
 Fac. de Electrotehnică
-4 min.
+15:25
 Univ. de Vest
-5 min.
+15:27
 Complex Studențesc
-7 min.
+15:25
 Cluj
-9 min.
+1 min.
 Spitalul Județean
-11 min.
+4 min.
 Bv.Sudului 2tb
-13 min.
+6 min.
 T. Grozăvescu
-22:25
+15:18
 P-ța Huniade
-2 min.
+15:20
 Pod A. Șaguna
-3 min.
+15:25
 Fac. de Electrotehnică
-4 min.
+15:25
 Univ. de Vest
-5 min.
+15:27
 Complex Studențesc
-7 min.
+15:25
 Cluj
-9 min.
+1 min.
 Spitalul Județean
-11 min.
+4 min.
 Bv.Sudului 2tb
-13 min.
+6 min.
 Linia 17 spre Baader
 Stația
 Sosire
 Agronomie
-22:16
+15:16
 U.T.T.
-22:17
+15:17
 Liege
-22:19
+15:19
 Dacia Service
-22:21
+15:21
 P-ța C. Europei
-22:23
+2 min.
 P-ța Mărăști
 >>
 Bastion
@@ -584,117 +584,117 @@ Bastion
 Poliția Jud. Timiș
 4 min.
 Baader
-22:16
+15:16
 Linia 17 spre Agronomie
 Stația
 Sosire
 
 Baader
-22:16
+15:16
 Poliția Jud. Timiș
-22:17
+15:17
 A. Popovici
-22:18
+15:18
 Oituz
-22:19
+15:19
 P-ța C. Europei
-22:23
-Remus Răduleț
 1 min.
-Liege
+Remus Răduleț
 3 min.
+Liege
+5 min.
 U.T.T.
-4 min.
-Agronomie
 6 min.
+Agronomie
+8 min.
 Baader
-22:16
+15:16
 Poliția Jud. Timiș
-22:17
+15:17
 A. Popovici
-22:18
+15:18
 Oituz
-22:19
+15:19
 P-ța C. Europei
-22:23
-Remus Răduleț
 1 min.
-Liege
+Remus Răduleț
 3 min.
+Liege
+5 min.
 U.T.T.
-4 min.
-Agronomie
 6 min.
+Agronomie
+8 min.
 Linia 18 spre P-ța Verde
 Stația
 Sosire
 C.P. Solventul
-22:19
+15:19
 Gelu
-1 min.
+15:20
 Pop de Băsești
-2 min.
+15:22
 Gara de Nord
-4 min.
+15:23
 Jiul
-6 min.
+15:26
 P-ța R. Maria
-8 min.
+15:27
 P-ța 700
-9 min.
+15:29
 P-ța Mărăști
-11 min.
+15:30
 P-ța C. Europei
-13 min.
+15:33
 Remus Răduleț
-15 min.
+>>
 P-ța Verde
-22:19
+15:19
 Linia 18 spre C.P. Solventul
 Stația
 Sosire
 
 P-ța Verde
-22:19
+15:19
 Cl. Torontalului
-22:20
+15:20
 Miresei
-22:22
+15:22
 P-ța C. Europei
-22:24
+15:24
 P-ța 700
-22:28
+2 min.
 P-ța R. Maria
-22:29
+4 min.
 Jiul
-22:31
+5 min.
 Gara de Nord
-22:33
+7 min.
 Pop de Băsești
-22:47
+9 min.
 Gelu
-1 min.
+10 min.
 C.P. Solventul
-3 min.
+12 min.
 P-ța Verde
-22:19
+15:19
 Cl. Torontalului
-22:20
+15:20
 Miresei
-22:22
+15:22
 P-ța C. Europei
-22:24
+15:24
 P-ța 700
-22:28
+2 min.
 P-ța R. Maria
-22:29
+4 min.
 Jiul
-22:31
+5 min.
 Gara de Nord
-22:33
+7 min.
 Pop de Băsești
-22:47
+9 min.
 Gelu
-1 min.
+10 min.
 C.P. Solventul
-3 min.
+12 min.
